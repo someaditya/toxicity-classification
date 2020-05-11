@@ -1,4 +1,4 @@
-# Welcome tho Toxity Classification
+# Welcome tho Toxicity Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pmM6iyZmrq5VLQUmfvTEFN1zMF-punUl?usp=sharing)
 
